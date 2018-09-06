@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arcade on Yarsa Games</title>
+    <link>http://192.168.1.18/categories/arcade/</link>
+    <description>Recent content in Arcade on Yarsa Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://192.168.1.18/categories/arcade/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2D Fall</title>
+      <link>http://192.168.1.18/post/2d-fall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.1.18/post/2d-fall/</guid>
+      <description>2D Fall can be your best time killer game ever. It’s a physics based rock falling game, with easy controls and challenging gameplay. You can also switch between different balls with multiple characteristics. Collect coins and get your balls unlocked and enjoy game.
+How to play Just tap right or left part of screen to control the rock fall from on plank to other.
+Let’s see how much you can fall.</description>
+    </item>
+    
+    <item>
+      <title>Curveline</title>
+      <link>http://192.168.1.18/post/curveline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.1.18/post/curveline/</guid>
+      <description>Curveline is simple and addictive type of game. Just tap to move the line right or left and move forward dodging the obstacles and score the points.</description>
+    </item>
+    
+    <item>
+      <title>Dodge Cube</title>
+      <link>http://192.168.1.18/post/dodge-cube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.1.18/post/dodge-cube/</guid>
+      <description>Dodge cube is an addictive game with simple gameplay. Tilt your phone or tap left and right to dodge falling cubes and stay alive as much as you can.</description>
+    </item>
+    
+    <item>
+      <title>Dunk</title>
+      <link>http://192.168.1.18/post/dunk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.1.18/post/dunk/</guid>
+      <description>One touch easy basketball dunk game. Super cool graphics. Many balls to choose and unlock. Global leader board. Achievements to unlock. Dunk the ball to get higher score. This game have almost no ads. Only rewarded ad are included.</description>
+    </item>
+    
+  </channel>
+</rss>

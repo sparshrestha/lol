@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Curveline on Yarsa Games</title>
+    <link>http://192.168.1.18/tags/curveline/</link>
+    <description>Recent content in Curveline on Yarsa Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://192.168.1.18/tags/curveline/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curveline</title>
+      <link>http://192.168.1.18/post/curveline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.1.18/post/curveline/</guid>
+      <description>Curveline is simple and addictive type of game. Just tap to move the line right or left and move forward dodging the obstacles and score the points.</description>
+    </item>
+    
+  </channel>
+</rss>

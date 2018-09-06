@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heart on Yarsa Games</title>
+    <link>http://192.168.1.18/tags/heart/</link>
+    <description>Recent content in Heart on Yarsa Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://192.168.1.18/tags/heart/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Heart Rush</title>
+      <link>http://192.168.1.18/post/heart-rush/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.1.18/post/heart-rush/</guid>
+      <description>Heart rush is a simple game. Drag your heart around, collect other hearts and grow bigger. Avoid any broken hearts, or you’ll lose. Easily navigate with invisible joystick like controls.
+Heart rush was made on Valentines week of 2018.
+With :cupid: from Yarsa Games.</description>
+    </item>
+    
+  </channel>
+</rss>

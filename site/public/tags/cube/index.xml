@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cube on Yarsa Games</title>
+    <link>http://192.168.1.18/tags/cube/</link>
+    <description>Recent content in Cube on Yarsa Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://192.168.1.18/tags/cube/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dodge Cube</title>
+      <link>http://192.168.1.18/post/dodge-cube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.1.18/post/dodge-cube/</guid>
+      <description>Dodge cube is an addictive game with simple gameplay. Tilt your phone or tap left and right to dodge falling cubes and stay alive as much as you can.</description>
+    </item>
+    
+  </channel>
+</rss>

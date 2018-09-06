@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jumper on Yarsa Games</title>
+    <link>http://192.168.1.18/tags/jumper/</link>
+    <description>Recent content in Jumper on Yarsa Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://192.168.1.18/tags/jumper/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jumper</title>
+      <link>http://192.168.1.18/post/jumper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.1.18/post/jumper/</guid>
+      <description>Tap to jump and collect diamonds. Jump Until you beat the highest number of among all players. There is only 1 way to survive – jump until your last breath. Do not touch the spikes and collect the points. Enjoy the game.
+This game is a part of one day game developing challenge. This game took less than 24 hours to build from scratch and is published within that time.</description>
+    </item>
+    
+  </channel>
+</rss>

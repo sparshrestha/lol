@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Direction on Yarsa Games</title>
+    <link>http://192.168.1.18/tags/direction/</link>
+    <description>Recent content in Direction on Yarsa Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://192.168.1.18/tags/direction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2 Direction</title>
+      <link>http://192.168.1.18/post/2-direction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.1.18/post/2-direction/</guid>
+      <description>2 Direction is an exciting casual game for everyday gaming. You have to drive a marble along a zigzag path and collect as many diamonds as you can.
+Tap for left and tap for right. Stay on the lane, do not fall and collect the Diamonds. Challenge yourself to your own high score; if you are a challenge lover you can browse the leaderboard and beat everyone.</description>
+    </item>
+    
+  </channel>
+</rss>

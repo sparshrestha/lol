@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Action on Yarsa Games</title>
+    <link>http://192.168.1.18/categories/action/</link>
+    <description>Recent content in Action on Yarsa Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://192.168.1.18/categories/action/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Go Missile-Escape</title>
+      <link>http://192.168.1.18/post/missile-escape/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.1.18/post/missile-escape/</guid>
+      <description>Dodge your way through the missiles and survive along the journey with missile escape. Challenge yourself to fight for the best score and time. Destroy missiles and earn coins to unlock all new 10 planes for more adventure and thrilling experience. Change your plane direction using joystick or you can choose hover option to move your finger all over screen to move plane. Share your experience over social networks.</description>
+    </item>
+    
+  </channel>
+</rss>

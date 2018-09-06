@@ -1,0 +1,70 @@
+baseURL = "https://https://tender-brahmagupta-558a38.netlify.com/"
+languageCode = "en-us"
+title = "Yarsa Games"
+
+# yarsatest@gmail.com
+googleAnalytics = "UA-125109532-1"
+
+preserveTaxonomyNames = true
+paginate = 5 #frontpage pagination
+
+[params]
+  slogan = "Game Studio by Yarsa Labs"
+  description = "A game studio run by Yarsa Labs in the heart of Pokhara city." # meta description
+  author = "Admin"
+  authorLink = "https://yarsa.io/"
+  bio = [
+    "Admin at <a href='https://yarsa.io/' target=_blank>Yarsa Labs</a>"
+  ]
+  copyright = [
+    "&copy; Copyright 2018 Yarsa Games",
+    "A Game Studio run by [Yarsa Labs](https://yarsa.io).",
+    "Google Play and the Google Play logo are trademarks of Google LLC."
+  ]
+
+  email = "games@yarsa.io"
+
+  # Nav links in the side bar
+  [[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  name = "About"
+  url = "about/"
+  weight = 2
+
+  [[menu.main]]
+  name = "Get in touch"
+  url = "contact/"
+  weight = 3
+
+
+[params.social]
+  facebook      = "https://facebook.com/yarsalabs"
+  email         = "games@yarsa.io"
+  twitter       = "https://twitter.com/yarsalabs"
+  github        = "https://github.com/yarsa"
+
+enableEmoji = true
+
+# Add a writer, then use it in the markdown front matter like this: writer = "Sparsh Shrestha"
+#[params.writers]
+#    [params.writers."NJ"]
+#    link = "https://njs.com.np/"
+#    email = "nj@yarsa.io"
+#    bio = [
+#      "Nj has a few skills up his sleve. He can fly blindfolded under a bridge while simultanous writing blog posts."
+#    ]
+#    facebook      = "https://facebook.com/yarsalabs"
+#    twitter       = "full profile url in twitter"
+#
+#    [params.writers."Sparsh"]
+#    link = "https://sparsh.com.np/"
+#    email = "sparsh@yarsa.io"
+#    bio = [
+#    "Sparsh has a few skills up his sleve. He can fly blindfolded under a bridge while simultanous writing blog posts."
+#    ]
+#    facebook      = "https://facebook.com/yarsalabs"
+#    twitter       = "full profile url in twitter"

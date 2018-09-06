@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kitty on Yarsa Games</title>
+    <link>http://192.168.1.18/tags/kitty/</link>
+    <description>Recent content in Kitty on Yarsa Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://192.168.1.18/tags/kitty/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Callbreak, Kitty, Solitaire &amp; Jutpatti</title>
+      <link>http://192.168.1.18/post/all-cards/</link>
+      <pubDate>Fri, 29 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.1.18/post/all-cards/</guid>
+      <description>Play multiple popular card games in single application. It consist of 4 popular games currently. 1. Callbreak 2. Kitty 3. Solitaire 4. Jutpatti
+More games will be added shortly. Thank you for trying the game. Pleas feel free to submit any feedback. We’re constantly adding new levels and features to the game. Your feedback will make the game even better for everyone.
+All the best!</description>
+    </item>
+    
+  </channel>
+</rss>

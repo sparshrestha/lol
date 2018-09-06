@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basketball on Yarsa Games</title>
+    <link>http://192.168.1.18/tags/basketball/</link>
+    <description>Recent content in Basketball on Yarsa Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://192.168.1.18/tags/basketball/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Basketball Free Throw</title>
+      <link>http://192.168.1.18/post/basketball-throw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.1.18/post/basketball-throw/</guid>
+      <description>Basketball Throw is an endless game where you try to score as many scores as possible. Collect stars along the way, choose from various balls with different physics and you’ll be playing the game for hours.</description>
+    </item>
+    
+    <item>
+      <title>Dunk</title>
+      <link>http://192.168.1.18/post/dunk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.1.18/post/dunk/</guid>
+      <description>One touch easy basketball dunk game. Super cool graphics. Many balls to choose and unlock. Global leader board. Achievements to unlock. Dunk the ball to get higher score. This game have almost no ads. Only rewarded ad are included.</description>
+    </item>
+    
+  </channel>
+</rss>

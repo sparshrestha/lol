@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Yarsa Games</title>
+    <link>http://192.168.1.18/categories/</link>
+    <description>Recent content in Categories on Yarsa Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://192.168.1.18/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Action</title>
+      <link>http://192.168.1.18/categories/action/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.1.18/categories/action/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adventure</title>
+      <link>http://192.168.1.18/categories/adventure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.1.18/categories/adventure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arcade</title>
+      <link>http://192.168.1.18/categories/arcade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.1.18/categories/arcade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cards</title>
+      <link>http://192.168.1.18/categories/cards/</link>
+      <pubDate>Fri, 29 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.1.18/categories/cards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Casual</title>
+      <link>http://192.168.1.18/categories/casual/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.1.18/categories/casual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation</title>
+      <link>http://192.168.1.18/categories/simulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.1.18/categories/simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sports</title>
+      <link>http://192.168.1.18/categories/sports/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.1.18/categories/sports/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

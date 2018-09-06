@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Balls on Yarsa Games</title>
+    <link>http://192.168.1.18/tags/balls/</link>
+    <description>Recent content in Balls on Yarsa Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://192.168.1.18/tags/balls/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Balls Again</title>
+      <link>http://192.168.1.18/post/balls-again/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.1.18/post/balls-again/</guid>
+      <description>Awesome to play. Great time killer Awesome to play. Great time killer Awesome to play. Great time killer Awesome to play. Great time killer Awesome to play. Great time killer Awesome to play. Great time killer</description>
+    </item>
+    
+    <item>
+      <title>Balls Rush Space</title>
+      <link>http://192.168.1.18/post/ballsrush-space/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.1.18/post/ballsrush-space/</guid>
+      <description>Balls Rush is an adventure game, that features a planet ball rushing ahead in space, while being followed by a bunch of enemy balls. Enemy balls rush towards you, and will destroy you.
+To survive the balls rush, you have to tackle the obstacles swiftly so that the enemy balls will get struck and destroyed. As times goes, the rush intensifies. Time starts running faster, the balls will start moving towards you faster and faster.</description>
+    </item>
+    
+  </channel>
+</rss>
