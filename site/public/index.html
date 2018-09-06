@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 <head>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 	<meta name="generator" content="Hugo 0.40.1" /><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <script type="application/ld+json">
@@ -549,6 +550,16 @@ This game is a part of one day game developing challenge. This game took less th
   <script src="http://192.168.1.18/js/jquery.min.js"></script>
 <script src="http://192.168.1.18/js/jquerymigrate.js"></script>
 <script src="http://192.168.1.18/js/production.min.js"></script>
-
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 </body>
 </html>
